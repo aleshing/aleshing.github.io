@@ -16,4 +16,4 @@ I completed my doctoral studies in the [Department of Biostatistics](http://www.
 
 Since 2021 I have been a part of the research team producing estimates of excess mortality during the COVID-19 pandemic for the [World Health Organization](https://www.who.int/) (WHO). See the following links for  [results](https://www.who.int/data/stories/global-excess-deaths-associated-with-covid-19-january-2020-december-2021), [methods](https://arxiv.org/abs/2205.09081), and [media coverage](https://faculty.washington.edu/jonno/WHOmedia.html).
 
-Originally from Maryland, I graduated from Boston College with a B.S. in Math and a B.A. in Computer Science. Outside of school, I enjoy hanging out with my cat, rock climbing, and gaming (currently Slay the Spire, Super Auto Pets, and Temafight Tactics).
+Originally from Maryland, I graduated from Boston College with a B.S. in Math and a B.A. in Computer Science. Outside of school, I enjoy hanging out with my cat, rock climbing, and gaming (currently Slay the Spire, Super Auto Pets, and Teamfight Tactics).
