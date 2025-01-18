@@ -16,4 +16,4 @@ Previously, I was a postdoctoral associate in the [Department of Statistical Sci
 
 Since 2021 I have been a part of the research team producing estimates of excess mortality during the COVID-19 pandemic for the [World Health Organization](https://www.who.int/) (WHO). See the following links for  [results](https://www.nature.com/articles/s41586-022-05522-2), [methods](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-2/Estimating-global-and-country-specific-excess-mortality-during-the-Covid/10.1214/22-AOAS1673.short), and [media coverage](https://faculty.washington.edu/jonno/WHOmedia.html).
 
-Originally from Maryland, I graduated from Boston College with a B.S. in Math and a B.A. in Computer Science. Outside of school, I enjoy hanging out with my cats, rock climbing, playing tennis, and gaming (currently Legends of Runeterra and Teamfight Tactics).
+Originally from Maryland, I graduated from Boston College with a B.S. in Math and a B.A. in Computer Science. Outside of work, I enjoy hanging out with my cats, rock climbing, playing tennis, and gaming (currently Balatro and Teamfight Tactics).
